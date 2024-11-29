@@ -1,4 +1,4 @@
-s<h1 align="center">Hi 👋, I'm Dhruv Gadara</h1>
+<h1 align="center">Hi 👋, I'm Dhruv Gadara</h1>
 
 <h1>About me</h1>
 
