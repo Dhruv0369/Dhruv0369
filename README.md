@@ -10,5 +10,4 @@
   <li><a href="http://gadu.epizy.com/" target="blank">My Portfolio</a></li>
   <li><a href="https://www.linkedin.com/in/dhruv-gadara/" target="blank">Linkedin</a></li>
 </ul>
-</hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhruv0369&show_icons=true&locale=en&layout=compact" alt="Dhruv0369" /></p>
